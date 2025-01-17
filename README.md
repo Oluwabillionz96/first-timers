@@ -24,6 +24,11 @@ This repository is for anyone to create pull requests on, for practice or otherw
 ## Contributors List
 
 Start adding your names here:
+### Goodluck Reuben
+- I am a student learning web development
+- I don't currently work, i'm a teenager and just learning programming
+- My hobbies include coding,playing chess and learning new things just like i'm learning open source contribution now and also job hunting cause I do that alot these days, so I think it's alright if i consider it a hobby.
+- [![twitter-alt][twitter-img]](https://x.com/oluwabillionz96)
 
 ### kimcodes
 - I work at Auth0!
